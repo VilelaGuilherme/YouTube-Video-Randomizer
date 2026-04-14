@@ -1,0 +1,3 @@
+Vamos fazer um software simples para a atividade em anexo. 
+O software funcionará da seguinte forma: O usuário irá informar uma palavra aleatória na tela e o sistema informará o link de um vídeo aleatório do YouTube que tenha a palavra informada no título. 
+O sistema usará php e bootstrap
